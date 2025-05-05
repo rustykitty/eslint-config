@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/rustykitty/eslint-config#readme",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "@bristlefrost/eslint-config": "^1.1.2"
   }
 }
