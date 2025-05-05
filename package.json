@@ -1,0 +1,22 @@
+{
+  "name": "@rustykitty/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustykitty/eslint-config.git"
+  },
+  "author": "Rusty Cat",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rustykitty/eslint-config/issues"
+  },
+  "homepage": "https://github.com/rustykitty/eslint-config#readme",
+  "description": "",
+  "dependencies": {
+    "@bristlefrost/eslint-config": "^1.1.2"
+  }
+}
