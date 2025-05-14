@@ -1,6 +1,6 @@
 {
   "name": "@rustykitty/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "index.js",
   "type": "module",
   "private": false,
@@ -21,7 +21,10 @@
   },
   "homepage": "https://github.com/rustykitty/eslint-config#readme",
   "description": "",
-  "devDependencies": {
+  "dependencies": {
     "@bristlefrost/eslint-config": "^1.1.2"
+  },
+  "peerDependencies": {
+    "eslint": "^9.21.0"
   }
 }
